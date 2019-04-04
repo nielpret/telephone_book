@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="com.niel.telephone_book.EntryDAOTest" time="0.296" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.niel.telephone_book.EntryDAOTest" time="0.301" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_161\jre\bin"/>
@@ -61,6 +61,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.niel.telephone_book.EntryDAOTest" name="testCreatePhonebook" time="0.234"/>
-  <testcase classname="com.niel.telephone_book.EntryDAOTest" name="testCreateEntry" time="0.021"/>
+  <testcase classname="com.niel.telephone_book.EntryDAOTest" name="testCreatePhonebook" time="0.239"/>
+  <testcase classname="com.niel.telephone_book.EntryDAOTest" name="testCreateEntry" time="0.023"/>
 </testsuite>
